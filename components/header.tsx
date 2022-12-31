@@ -6,7 +6,9 @@ export default function Header() {
       <Link href="/search">
         検索
       </Link>
-      <a href="/">Hoge</a>
+      <Link href="/">
+        Hoge
+      </Link>
       <button>サイドバー</button>
     </header>
   )
